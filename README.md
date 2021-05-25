@@ -1,4 +1,4 @@
-# Ethereum 2.0 Launchpad
+# Vapory 2.0 Launchpad
 
 The Launchpad is the Ethereum Foundation's official way to deposit your Eth for Ethereum 2.0
 
